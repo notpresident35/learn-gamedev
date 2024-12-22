@@ -240,6 +240,8 @@ More huge lists of resources, with many, many more incredible things! Some of th
 
 [Optimization tips for Unity](https://web.archive.org/web/20220830175614/https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf) - Some tips from Unity about optimizing their games.
 
+[Larold's Retro Gameyard](https://laroldsretrogameyard.com/) - A collection of retro video game programming tutorials. Learn to make [Game Boy](https://laroldsretrogameyard.com/category/tutorials/gb/) or [Game Boy Advance](https://laroldsretrogameyard.com/category/tutorials/gba/) games from scratch. In the future, tutorials for additional consoles will added.
+
 
 <br />
 
